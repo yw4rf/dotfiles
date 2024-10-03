@@ -7,11 +7,18 @@ Need to install:
 - [Polybar](https://github.com/polybar/polybar)
 - [i3](https://i3wm.org/)
 <br>
+
 ![yw4rf desktop i3](wallpapers/images/my-desktop-i3-3.png)
+
 <br>
+
 ![yw4rf desktop i3](wallpapers/images/my-desktop-i3-2.png)
+
 <br>
+
 ![yw4rf desktop i3](wallpapers/images/my-desktop-i3.png)
+
 <br>
 <br> 
+
 Don´t take this seriously
