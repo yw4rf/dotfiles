@@ -1,4 +1,4 @@
-Some personal files that I maybe will use in the future for my Linux desktop
+# Some personal files that I maybe will use in the future for my Linux desktop
 
 Need to install:
 
