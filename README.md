@@ -6,6 +6,7 @@ Need to install:
 - [Alacritty theme](https://github.com/alacritty/alacritty-theme)
 - [Polybar](https://github.com/polybar/polybar)
 - [i3](https://i3wm.org/)
+- [Compton](https://github.com/chjj/compton)
 <br>
 
 ![yw4rf desktop i3](wallpapers/images/my-desktop-i3-3.png)
